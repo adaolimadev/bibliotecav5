@@ -1,0 +1,28 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "God Of War",
+      "autor": "Kratos",
+      "editora": "Tróia",
+      "genero": "Aventura",
+      "ano": "2005"
+    },
+    {
+      "titulo": "q",
+      "autor": "q",
+      "editora": "q",
+      "genero": "q",
+      "ano": "q",
+      "id": 3
+    },
+    {
+      "titulo": "Teste",
+      "autor": "teste",
+      "editora": "teste",
+      "genero": "teste",
+      "ano": "teste",
+      "id": 4
+    }
+  ]
+}
